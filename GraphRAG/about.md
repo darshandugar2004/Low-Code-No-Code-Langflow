@@ -1,6 +1,9 @@
 ### Project Title: GraphRAG
 **Hybrid Retrieval with Knowledge Graphs and Vector Stores**
 
+### Image
+<img src="https://github.com/darshandugar2004/Low-Code-No-Code-Langflow/blob/main/images/GraphRAG.png">
+
 ### Project Description
 
 This project is an advanced, enterprise-ready **Hybrid Retrieval-Augmented Generation (RAG)** workflow for Langflow. It is designed to overcome the limitations of standard vector-search RAG by integrating a **Knowledge Graph (Neo4j)** for structured, factual data retrieval alongside a **Vector Store (Chroma)** for unstructured, semantic context.
