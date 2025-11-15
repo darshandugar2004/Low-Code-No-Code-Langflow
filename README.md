@@ -24,12 +24,16 @@ We believe in secure, on-premise AI. These components are designed to operate en
 
 ### How to Use
 
-*(You can add this section later)*
+*To Import Templates in Langflow*
 
 ```
-[Instructions on how to import these custom components into Langflow]
+Download the json file
+Locate this path langflow\langflow_env\Lib\site-packages\langflow\initial_setup\starter_projects
+Paste this json file
 ```
+You will be to access these templates from Templates Section
 
 ### Our Templates
 
-  * **GraphRAG:** [link]
+  * **[GraphRAG ](https://github.com/darshandugar2004/Low-Code-No-Code-Langflow/tree/main/GraphRAG)**
+    
